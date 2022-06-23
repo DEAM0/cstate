@@ -36,9 +36,7 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
-  systems:
-    - name: Hosting
-      category: hosting
+  systems: []
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -46,6 +44,7 @@ params:
   logo: logo.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs: []
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -54,7 +53,8 @@ params:
   incidentHistoryFormat: yearly
   disableIncidentHistory: false
   ok: "#008000"
-  categories: []
+  categories:
+    - name: Hosting
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
