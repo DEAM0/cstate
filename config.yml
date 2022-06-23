@@ -37,7 +37,9 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: Main
+    - name: Hosting
+      category: Main
+    - name: Domains
       category: Main
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
