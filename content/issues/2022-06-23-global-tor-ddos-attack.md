@@ -7,6 +7,8 @@ draft: false
 informational: false
 pin: false
 resolvedWhen: 2022-06-23T13:04:25.396Z
+affected:
+  - Tor Network
 severity: disrupted
 ---
 <!--StartFragment-->
