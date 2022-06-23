@@ -41,6 +41,10 @@ params:
       category: Main
     - name: Domains
       category: Main
+    - name: MySQL
+      category: Main
+    - name: Mail
+      category: Main
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
