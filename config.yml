@@ -49,6 +49,8 @@ params:
   customTabs:
     - name: Hosting
       link: http://7jciaondg57lk2r57xcch7yen6ndpxot75fo5xozj3fxwvbkdp5dscad.onion
+    - name: Domains
+      link: http://7jciaondg57lk2r57xcch7yen6ndpxot75fo5xozj3fxwvbkdp5dscad.onion
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
